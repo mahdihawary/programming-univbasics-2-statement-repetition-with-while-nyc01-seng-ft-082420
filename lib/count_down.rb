@@ -4,4 +4,4 @@ while count >= 10
   puts count
   count -= 1
 end
-put "Happy New Year!"
+puts "Happy New Year!"
